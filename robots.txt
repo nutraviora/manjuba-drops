@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ketosana-official.netlify.app/sitemap.xml
+Sitemap: https://manjuba-drops.netlify.app/sitemap.xml
